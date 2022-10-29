@@ -1,4 +1,4 @@
-	<p align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
 </p>
 <p align="center">
