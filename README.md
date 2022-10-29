@@ -1,7 +1,7 @@
-<p align="center">
- HI KAK AKU RHISHNA SELAMAT DATANG DI GITHUBKU...
+	<p align="center">
+<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
 </p>
-	<img src="[https://j.top4top.io/p_24938o6fm1.jpeg]" alt="RHISHNA KISNUL" width="128" height="128"/>
+<p align="center">
 
 ## RUN TERMUX
 
