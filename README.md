@@ -1,7 +1,7 @@
 <p align="center">
  HI KAK AKU RHISHNA SELAMAT DATANG DI GITHUBKU...
 </p>
-	<img src="https://j.top4top.io/p_24938o6fm1.jpeg" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://j.top4top.io/p_24938o6fm1.jpeg" style="margin-left: auto;margin-right: auto;display: block;">   width="128" height="128"/>
 </p>
 
 ## RUN TERMUX
