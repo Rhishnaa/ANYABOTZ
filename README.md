@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
+<<img src="https://j.top4top.io/p_24938o6fm1.jpeg" alt="NinoBot" width="500" />>
 </p>
 <p align="center">
 
